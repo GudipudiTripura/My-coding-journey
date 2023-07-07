@@ -1,1 +1,26 @@
+## CompileTime VS RunTime:
+The compiler converts the High-level language into a low-level language.
+If there are any errors in the high-level language, the compiler shows a compilation error. 
+-> During compile time, the compiler checks the syntax, semantics, and type of the code.
+->  Meaningless statements are termed semantic errors.
+-> The syntax error is an incorrect construction of the source code.
+   Syntax errors
+   Examples:
+    Missing semicolon.
+    missing Parenthesis (}).
+    Printing the value of a variable without declaring it.
 
+Semantic Errors: Missing Parenthesis , Printing the value of undeclared variable
+
+Runtime: A program’s life cycle is a runtime when the program is in execution. 
+
+Division by zero – when a number is divided by zero (0)
+Dereferencing a null pointer – when a program attempts to access memory with a NULL
+Running out of memory – when a computer has no memory to allocate to program
+
+Statically typed VS Dynamically typed
+Statically typed means that the types are not dynamic - you can not change the type of a variable 
+once it has been created. it it checked at complie time.   Examples: C,Cpp,Java,pascal,scala
+
+Dynamically typed languages offer more flexibility, but with less optimised code, while 
+statically typed languages offer more optimised code with less flexibility.
