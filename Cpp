@@ -1,6 +1,19 @@
 CPP(P=plus) /C++
-
+it was procedural and OOPs language.
 Why?  C++ is an attempt to add object-oriented features (plus other improvements) to C.
+
+Features:
+
+Object-Oriented Programming
+Machine Independent
+Simple
+High-Level Language
+Popular
+Case-sensitive
+Compiler Based
+Dynamic Memory Allocation
+Memory Management
+Multi-threading
 
 packages mostly used:
 iostream : used for input/output operations in cpp.
