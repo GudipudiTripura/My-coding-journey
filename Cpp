@@ -1,0 +1,8 @@
+CPP(P=plus) /C++
+
+Why?  C++ is an attempt to add object-oriented features (plus other improvements) to C.
+
+packages mostly used:
+io stream - output and input operations.
+
+ 
