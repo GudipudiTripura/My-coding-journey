@@ -27,3 +27,14 @@ we can alter the variable types . Examples: python, javascript,Lisp,PHP,Ruby.
 
 Dynamically typed languages offer more flexibility, but with less optimised code, while 
 statically typed languages offer more optimised code with less flexibility.
+
+User-Defined Identifiers:
+User-defined identifiers are names created by the programmer to represent variables, functions, classes, and other entities in their program. 
+Ex: int myVariable;
+    void myFunction();
+    class MyClass;
+Predefined :  are already present in a system library.
+Ex: cplusplus, __FILE, LINE, func, NULL, true, false, sizeof, and many more.                                       
+Keywords:
+Keywords, also known as reserved words, are predefined words in the C++ language that have special meanings and purposes .
+Ex: int, double, if, else, while, for, class, struct, return, public, private, static, const, void, and many more.
