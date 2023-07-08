@@ -38,3 +38,5 @@ Ex: cplusplus, __FILE, LINE, func, NULL, true, false, sizeof, and many more.
 Keywords:
 Keywords, also known as reserved words, are predefined words in the C++ language that have special meanings and purposes .
 Ex: int, double, if, else, while, for, class, struct, return, public, private, static, const, void, and many more.
+
+c programming doesnot has userdefined words
