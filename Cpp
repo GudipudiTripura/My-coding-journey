@@ -24,7 +24,9 @@ algorithm : used for performing operations like  sort, find, for_each.
 cmath  :  used for performing the function like more advanced mathematical operations such as trigonometric functions, logarithmic functions, and complex numbers.
           Example: sqrt , sin , pow and some constant like M_PI for pi.
 
-
+We have a better way to replace these many libraries with just one library i.e, #include<bits/stdc++.h> to include all standard libraries without adding them one at a time. 
+It is especially useful in programming competitions where time is limited.
+ #include<bits/stdc++.h>
 
 --------------------------------------------------------------------------------------------------
  SWAPPING OF TW0 NUMBERS:
